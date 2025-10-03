@@ -1,0 +1,12 @@
+---
+title: "Clase 02/10 (segundo intento)"
+author: "Valentina Tesser"
+date: "2025-10-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hola hola hola
